@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,500,600");
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+:root {
+  --black-pearl: #001122;
+  --gallery: #eeeeee;
+  --white: #ffffff;
+  --grey: #e9ecef;
+  --hover-fill: #f6f6f6;
+
+  --font-size-m: 14px;
+  --font-size-l: 16px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 21px;
+  --font-size-xxxl: 22px;
+
+  --font-family-lato: "Lato";
+}
